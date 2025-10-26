@@ -1,17 +1,17 @@
-<h1 align="center">👋 Hello, I'm Newton Armstrong</h1>
+<h1 align="center"> Hello, I'm Newton Armstrong</h1>
 <h3 align="center">Full-Stack Developer | Data Engineer | Fintech Solutions Architect</h3>
 <h4 align="center">Transforming complex data into intuitive applications that drive business value</h4>
 
 ---
 
-### 🔥 Current Focus
-- 🚀 Building **UniversalLighthouse** - A next-gen data visualization platform
-- 🤝 Collaborating on **TuFund** - Revolutionizing fintech crowdfunding
-- 🌱 Mastering **Cloud Architecture** and **AI Integration**
+### Current Focus
+-  Building **UniversalLighthouse** - A next-gen data visualization platform
+-  Collaborating on **TuFund** - Revolutionizing fintech crowdfunding
+-  Mastering **Cloud Architecture** and **AI Integration**
 
 ---
 
-### 🛠 Core Technical Stack
+### Core Technical Stack
 <p align="center">
   <!-- Web Development -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
@@ -33,7 +33,7 @@
 
 ---
 
-### 🏆 Recent Achievements
+### Recent Achievements
 - **40% performance boost** for SME applications using Next.js optimization
 - Developed **10+ production-ready dashboards** with React/Chart.js
 - Automated financial reporting systems saving **15+ hours/week** at KCB Bank
@@ -41,7 +41,7 @@
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=neewtonouma&show_icons=true&theme=radical&count_private=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=neewtonouma&theme=radical" />
@@ -52,7 +52,7 @@
 
 ---
 
-### 🤝 Let's Connect
+### Let's Connect
 <p align="center">
   <a href="https://linkedin.com/in/newton-armstrong" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -68,3 +68,4 @@
 ---
 
 > "I build solutions that don't just work—they deliver measurable business impact through clean architecture and data-driven decisions."
+
