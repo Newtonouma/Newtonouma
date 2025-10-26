@@ -5,9 +5,13 @@
 ---
 
 ### Current Focus
--  Building **UniversalLighthouse** - A next-gen data visualization platform
--  Collaborating on **TuFund** - Revolutionizing fintech crowdfunding
--  Mastering **Cloud Architecture** and **AI Integration**
+- Developing EduSphere — a comprehensive School Management System that streamlines administration, student records, and communication.
+
+- Building TikoYangu — a full-featured Event Management Platform with QR-based ticket verification, organizer dashboards, and real-time attendee tracking.
+
+- Advancing TuFund — a next-generation Crowdfunding Platform empowering communities to fund ideas, projects, and causes seamlessly.
+
+- Expanding expertise in Cloud Infrastructure, Scalable Backend Development, and AI-driven automation.
 
 ---
 
