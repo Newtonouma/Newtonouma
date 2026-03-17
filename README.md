@@ -10,7 +10,7 @@
 
 ---
 
-## Project Intelligence Snapshot (March 2026)
+## Projects Snapshot 2025/2026
 
 After a deep review of the projects in my local engineering workspace, these are the strongest recurring capabilities:
 
@@ -29,8 +29,8 @@ After a deep review of the projects in my local engineering workspace, these are
 | **Assignment_Point** | Academic writing marketplace with role-based operations | Next.js 15 + Spring Boot 3 + PostgreSQL | Bidding workflow, Stripe payments, file flows, production deployment docs |
 | **EasyPro / Brainy_Nerds / Writer Street** | Academic operations management platform | NestJS + React + PostgreSQL | Invite-only onboarding, shift logic, analytics, admin/writer process control |
 | **MiniBet** | Betting/payment backend with telecom integration | NestJS + TypeORM + PostgreSQL | Airtel Money deposit flows, transaction lifecycle, API documentation |
-| **JKUSDA** | Community-focused web platform | Next.js 15 + TypeScript + Tailwind | SEO-first structure, responsive architecture, maintainable component layout |
-| **Erissatallan** | Content-driven portfolio system | Next.js + Sanity CMS | Structured content modeling, studio integration, deployment-ready setup |
+| **Shop Inventory Management System** | Inventory tracking and stock operations for business workflows | Full-stack web application | Product/catalog control, stock visibility, and operations-focused process support |
+| **Gravixel_Attires** | Fashion and retail brand platform for digital customer engagement | Full-stack web platform | Brand presentation, product showcase flows, and online business presence enablement |
 | **Calculator (Mobile)** | Lightweight utility product | Expo React Native | Persisted history, mobile-first UX patterns, practical state management |
 
 ---
@@ -72,7 +72,7 @@ After a deep review of the projects in my local engineering workspace, these are
 
 ---
 
-## Universal Summary
+## Professional Summary
 
 I am a full-stack engineer focused on building production-grade platforms where business workflow, data reliability, and user experience must work together. Across fintech, edtech, and SaaS projects, I consistently deliver complete systems: role-based dashboards, scalable backend services, clean data models, and cloud-ready deployments.
 
