@@ -1,62 +1,107 @@
-<h1 align="center"> Hello, I'm Newton Armstrong</h1>
-<h3 align="center">Full-Stack Developer | Data Engineer | Fintech Solutions Architect</h3>
-<h4 align="center">Transforming complex data into intuitive applications that drive business value</h4>
+<h1 align="center">Newton Armstrong</h1>
+<h3 align="center">Full-Stack Engineer | Data Engineer | Fintech Product Builder</h3>
+<p align="center"><em>I design production-ready systems with strong architecture, clear business logic, and measurable outcomes.</em></p>
 
----
-
-### Current Focus
-- Developing EduSphere — a comprehensive School Management System that streamlines administration, student records, and communication.
-
-- Building TikoYangu — a full-featured Event Management Platform with QR-based ticket verification, organizer dashboards, and real-time attendee tracking.
-
-- Advancing TuFund — a next-generation Crowdfunding Platform empowering communities to fund ideas, projects, and causes seamlessly.
-
-- Expanding expertise in Cloud Infrastructure, Scalable Backend Development, and AI-driven automation.
-
----
-
-### Core Technical Stack
 <p align="center">
-  <!-- Web Development -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS"/>
-  
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  
-  <!-- Data Science -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  
-  <!-- DevOps -->
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Focus-Platform%20Engineering-0A66C2?style=for-the-badge" alt="Platform Engineering"/>
+  <img src="https://img.shields.io/badge/Domain-Fintech%20%7C%20EdTech%20%7C%20SaaS-0F766E?style=for-the-badge" alt="Domain"/>
+  <img src="https://img.shields.io/badge/Delivery-Full%20Stack-111827?style=for-the-badge" alt="Full Stack"/>
 </p>
 
 ---
 
-### Recent Achievements
-- **40% performance boost** for SME applications using Next.js optimization
-- Developed **10+ production-ready dashboards** with React/Chart.js
-- Automated financial reporting systems saving **15+ hours/week** at KCB Bank
-- Built secure auth systems with **JWT/OAuth** for fintech clients
+## Project Intelligence Snapshot (March 2026)
+
+After a deep review of the projects in my local engineering workspace, these are the strongest recurring capabilities:
+
+- Multi-role platforms with complex workflows (admin, manager, writer, customer, editor)
+- End-to-end full-stack delivery (frontend, backend, database, deployment)
+- Financial process design (deposits, balances, withdrawals, payment integrations)
+- Cloud deployment maturity across Render, Railway, and Vercel
+- Product-minded implementation: not just APIs, but complete operational systems
 
 ---
 
-### GitHub Analytics
+## Flagship Systems Reviewed
+
+| Project | Core Value | Architecture | Notable Depth |
+|---|---|---|---|
+| **Assignment_Point** | Academic writing marketplace with role-based operations | Next.js 15 + Spring Boot 3 + PostgreSQL | Bidding workflow, Stripe payments, file flows, production deployment docs |
+| **EasyPro / Brainy_Nerds / Writer Street** | Academic operations management platform | NestJS + React + PostgreSQL | Invite-only onboarding, shift logic, analytics, admin/writer process control |
+| **MiniBet** | Betting/payment backend with telecom integration | NestJS + TypeORM + PostgreSQL | Airtel Money deposit flows, transaction lifecycle, API documentation |
+| **JKUSDA** | Community-focused web platform | Next.js 15 + TypeScript + Tailwind | SEO-first structure, responsive architecture, maintainable component layout |
+| **Erissatallan** | Content-driven portfolio system | Next.js + Sanity CMS | Structured content modeling, studio integration, deployment-ready setup |
+| **Calculator (Mobile)** | Lightweight utility product | Expo React Native | Persisted history, mobile-first UX patterns, practical state management |
+
+---
+
+## What I Build Best
+
+- **Business-critical dashboards** with clear role-based access and workflows
+- **Scalable backend services** with robust data models and maintainable API surfaces
+- **Payment-aware systems** where reliability, traceability, and operational clarity matter
+- **Deployment-ready products** with practical environment and DevOps documentation
+
+---
+
+## Core Stack
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=neewtonouma&show_icons=true&theme=radical&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=neewtonouma&theme=radical" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neewtonouma&layout=compact&theme=radical&langs_count=8" />
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20SvelteKit-2563EB?style=for-the-badge&logo=react&logoColor=white" alt="Frontend"/>
+  <img src="https://img.shields.io/badge/Backend-NestJS%20%7C%20Spring%20Boot%20%7C%20Node.js-0F766E?style=for-the-badge&logo=nestjs&logoColor=white" alt="Backend"/>
+  <img src="https://img.shields.io/badge/Data-PostgreSQL%20%7C%20TypeORM%20%7C%20JPA-334155?style=for-the-badge&logo=postgresql&logoColor=white" alt="Data"/>
+  <img src="https://img.shields.io/badge/Cloud-Render%20%7C%20Railway%20%7C%20Vercel-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Cloud"/>
 </p>
 
 ---
 
-### Let's Connect
+## Current Direction
+
+- Building data-heavy, role-aware SaaS products for African and global markets
+- Deepening expertise in cloud-native architecture and secure fintech infrastructure
+- Integrating AI-assisted workflows into real operational products
+
+---
+
+## Highlights
+
+- Improved application performance for SME platforms through frontend optimization
+- Built production dashboards and process workflows across multiple domains
+- Automated reporting pipelines and reduced repetitive manual effort in banking workflows
+- Delivered secure authentication and access-control flows for real users
+
+---
+
+## Universal Summary
+
+I am a full-stack engineer focused on building production-grade platforms where business workflow, data reliability, and user experience must work together. Across fintech, edtech, and SaaS projects, I consistently deliver complete systems: role-based dashboards, scalable backend services, clean data models, and cloud-ready deployments.
+
+My approach combines product thinking with strong engineering fundamentals. I design solutions around real operations, implement maintainable architecture, and ship software that teams can run, trust, and extend.
+
+Core strengths:
+
+- End-to-end product delivery from architecture to deployment
+- Multi-role platform design with clear permissions and lifecycle control
+- Payment-aware and transaction-centric workflow implementation
+- Modern stack execution (Next.js, React, NestJS, Spring Boot, PostgreSQL)
+- Documentation and deployment discipline for long-term maintainability
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=neewtonouma&show_icons=true&theme=default&count_private=true" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=neewtonouma&theme=default" alt="GitHub Streak"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neewtonouma&layout=compact&theme=default&langs_count=8" alt="Top Languages"/>
+</p>
+
+---
+
+## Connect
+
 <p align="center">
   <a href="https://linkedin.com/in/newton-armstrong" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -65,11 +110,11 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
 ---
 
-> "I build solutions that don't just work—they deliver measurable business impact through clean architecture and data-driven decisions."
+> "I build software that is technically sound, business-aware, and ready for real-world operation."
 
