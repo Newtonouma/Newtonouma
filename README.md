@@ -26,7 +26,7 @@ After a deep review of the projects in my local engineering workspace, these are
 
 | Project | Core Value | Architecture | Notable Depth |
 |---|---|---|---|
-| **TiraFlow** | Shopify-like commerce platform for Kenyan markets | Next.js + NestJS + PostgreSQL + Redis + Flutter (mobile app) | Multi-vendor storefronts, local payment flows, inventory/order management, and merchant operations tooling |
+| **TiraFlow** |Ecommerce web-buider platform like shopify for Kenyan markets | Next.js + NestJS + PostgreSQL + Redis + Flutter (mobile app) | Multi-vendor storefronts, local payment flows, inventory/order management, and merchant operations tooling |
 | **Assignment_Point/EasyPro / Brainy_Nerds / Writer Street** | Academic writing marketplace with role-based operations and management platform| React + Next.js 15 + Spring Boot 3 + PostgreSQL | Bidding workflow, Stripe payments, file flows, production deployment docs |
 | **Tiko Yangu** | Event ticketing and management platform | NestJS + NextJS + PostgreSQL | QR-based ticket verification, organizer dashboards, real-time attendee tracking |
 | **MiniBet** | Betting/payment backend with telecom integration | NestJS + TypeORM + PostgreSQL | Airtel Money/M-Pesa deposit flows, transaction lifecycle, API documentation |
