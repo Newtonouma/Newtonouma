@@ -26,12 +26,12 @@ After a deep review of the projects in my local engineering workspace, these are
 
 | Project | Core Value | Architecture | Notable Depth |
 |---|---|---|---|
-| **Assignment_Point** | Academic writing marketplace with role-based operations | Next.js 15 + Spring Boot 3 + PostgreSQL | Bidding workflow, Stripe payments, file flows, production deployment docs |
-| **EasyPro / Brainy_Nerds / Writer Street** | Academic operations management platform | NestJS + React + PostgreSQL | Invite-only onboarding, shift logic, analytics, admin/writer process control |
-| **MiniBet** | Betting/payment backend with telecom integration | NestJS + TypeORM + PostgreSQL | Airtel Money deposit flows, transaction lifecycle, API documentation |
+| **Assignment_Point/EasyPro / Brainy_Nerds / Writer Street** | Academic writing marketplace with role-based operations and management platform| React + Next.js 15 + Spring Boot 3 + PostgreSQL | Bidding workflow, Stripe payments, file flows, production deployment docs |
+| **Tiko Yangu** | Event ticketing and management platform | NestJS + NextJS + PostgreSQL | QR-based ticket verification, organizer dashboards, real-time attendee tracking |
+| **MiniBet** | Betting/payment backend with telecom integration | NestJS + TypeORM + PostgreSQL | Airtel Money/M-Pesa deposit flows, transaction lifecycle, API documentation |
 | **Shop Inventory Management System** | Inventory tracking and stock operations for business workflows | Full-stack web application | Product/catalog control, stock visibility, and operations-focused process support |
 | **Gravixel_Attires** | Fashion and retail brand platform for digital customer engagement | Full-stack web platform | Brand presentation, product showcase flows, and online business presence enablement |
-| **Calculator (Mobile)** | Lightweight utility product | Expo React Native | Persisted history, mobile-first UX patterns, practical state management |
+| **Universal Data Point** | Data visualization and insights platform | Full-stack web platform | Includes a mobile application for on-the-go analytics, dashboard access, and alert monitoring |
 
 ---
 
